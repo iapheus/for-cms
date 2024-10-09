@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "img" : "https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark4.png?raw=true",
+        "title" : "Pretty Bookmark",
+        "description" : "A bookmark manager that helps you save and organize links to find what you need quickly.",
+        "demo" : "https://prettybookmark.vercel.app/",
+        "github" : "https://github.com/iapheus/PrettyBookmark",
+        "tech" : ["React", "Firebase Auth / DB", "Tailwind CSS"]
+    },
+	{
+        "id":2,
+        "img" : "https://github.com/iapheus/OSS-Explorer/blob/main/image/oss-explorer.png?raw=true",
+        "title" : "OSS Explorer",
+        "description" : "A map app that simply shows locations, making it easy to explore and find your way around.",
+        "demo" : "https://oss-explorer-bice.vercel.app/",
+        "github" : "https://github.com/iapheus/OSS-Explorer",
+        "tech" : ["React", "Redux Toolkit", "OpenStreetMap", "Radix UI"]
+    },
+    {
+        "id":3,
+        "img" : "https://github.com/iapheus/domain-analyser/blob/main/image/domain-analyser.png?raw=true",
+        "title" : "Domain Analyser",
+        "description" : "An OSINT tool that gathers public information to provide useful insights.",
+        "demo" : "https://domain-analyser.vercel.app",
+        "github" : "https://github.com/iapheus/domain-analyser",
+        "tech" : ["React", "Material UI"]
+    },
+
+    {
+        "id":4,
+        "img" : "https://github.com/iapheus/fast-reader/blob/main/image/fast-reader.png?raw=true",
+        "title" : "Fast Reader",
+        "description" : "A reading app that boosts your reading speed and improves retention.",
+        "demo" : "https://fast-reader-eight.vercel.app/",
+        "github" : "https://github.com/iapheus/fast-reader",
+        "tech" : ["React", "File System", "Tailwind CSS"]
+    },
+	{
+        "id":5,
+        "img" : "/projectsBg.png",
+        "title" : "RSS Cool",
+        "description" : "An RSS reader app that lets you add URLs to easily follow your favorite feeds.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/rss-cool",
+        "tech" : ["React Native", "RSS"]
+    },
+	{
+        "id":6,
+        "img" : "https://github.com/iapheus/freify/blob/main/image/freify.png?raw=true",
+        "title" : "Freify",
+        "description" : "Freify is a free music player that makes it easy to listen to your favorite tracks.",
+        "demo" : "https://freify.vercel.app/",
+        "github" : "https://github.com/iapheus/freify",
+        "tech" : ["React", "Redux Toolkit", "Radix UI"]
+    },
+    {
+        "id":7,
+        "img" : "https://github.com/iapheus/tt-downloader/blob/main/image/tt-downloader.png?raw=true",
+        "title" : "TT Downloader",
+        "description" : "A site that lets you download and save your favorite TikTok videos for offline access.",
+        "demo" : "https://tt-downloader-lac.vercel.app/",
+        "github" : "https://github.com/iapheus/tt-downloader",
+        "tech" : ["React", "Material UI"]
+    },
+    {
+        "id":8,
+        "img" : "/projectsBg.png",
+        "title" : "JustSwipe",
+        "description" : "A site that lets you swipe through photos from your favorite subreddits easily.",
+        "demo" : "https://just-swipe.vercel.app/",
+        "github" : "https://github.com/iapheus/JustSwipe",
+        "tech" : ["React", "Redux Toolkit", "Material UI"]
+    }
+]
