@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "img" : "https://github.com/iapheus/PrettyBookmark/blob/main/image/prettyBookmark4.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/PrettyBookmark/refs/heads/main/image/prettyBookmark4.png",
         "title" : "Pretty Bookmark",
         "description" : "A bookmark manager that helps you save and organize links to find what you need quickly.",
         "demo" : "https://prettybookmark.vercel.app/",
@@ -10,7 +10,7 @@
     },
 	{
         "id":2,
-        "img" : "https://github.com/iapheus/OSS-Explorer/blob/main/image/oss-explorer.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/OSS-Explorer/refs/heads/main/image/oss-explorer.png",
         "title" : "OSS Explorer",
         "description" : "A map app that simply shows locations, making it easy to explore and find your way around.",
         "demo" : "https://oss-explorer-bice.vercel.app/",
@@ -19,7 +19,7 @@
     },
     {
         "id":3,
-        "img" : "https://github.com/iapheus/domain-analyser/blob/main/image/domain-analyser.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/domain-analyser/refs/heads/main/image/domain-analyser.png",
         "title" : "Domain Analyser",
         "description" : "An OSINT tool that gathers public information to provide useful insights.",
         "demo" : "https://domain-analyser.vercel.app",
@@ -29,7 +29,7 @@
 
     {
         "id":4,
-        "img" : "https://github.com/iapheus/fast-reader/blob/main/image/fast-reader.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/fast-reader/refs/heads/main/image/fast-reader.png",
         "title" : "Fast Reader",
         "description" : "A reading app that boosts your reading speed and improves retention.",
         "demo" : "https://fast-reader-eight.vercel.app/",
@@ -47,7 +47,7 @@
     },
 	{
         "id":6,
-        "img" : "https://github.com/iapheus/freify/blob/main/image/freify.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/freify/refs/heads/main/image/freify.png",
         "title" : "Freify",
         "description" : "Freify is a free music player that makes it easy to listen to your favorite tracks.",
         "demo" : "https://freify.vercel.app/",
@@ -56,7 +56,7 @@
     },
     {
         "id":7,
-        "img" : "https://github.com/iapheus/tt-downloader/blob/main/image/tt-downloader.png?raw=true",
+        "img" : "https://raw.githubusercontent.com/iapheus/tt-downloader/refs/heads/main/image/tt-downloader.png",
         "title" : "TT Downloader",
         "description" : "A site that lets you download and save your favorite TikTok videos for offline access.",
         "demo" : "https://tt-downloader-lac.vercel.app/",
