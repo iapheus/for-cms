@@ -6,7 +6,9 @@
         "description" : "A bookmark manager that helps you save and organize links to find what you need quickly.",
         "demo" : "https://prettybookmark.vercel.app/",
         "github" : "https://github.com/iapheus/PrettyBookmark",
-        "tech" : ["React", "Firebase Auth / DB", "Tailwind CSS"]
+        "tech" : ["React", "Firebase Auth / DB", "Tailwind CSS"],
+        "status":"finished",
+        "favorite":"no"
     },
 	{
         "id":2,
@@ -15,7 +17,9 @@
         "description" : "A map app that simply shows locations, making it easy to explore and find your way around.",
         "demo" : "https://oss-explorer-bice.vercel.app/",
         "github" : "https://github.com/iapheus/OSS-Explorer",
-        "tech" : ["React", "Redux Toolkit", "OpenStreetMap", "Radix UI"]
+        "tech" : ["React", "Redux Toolkit", "OpenStreetMap", "Radix UI"],
+        "status": "finished",
+        "favorite":"yes"
     },
     {
         "id":3,
@@ -24,7 +28,9 @@
         "description" : "An OSINT tool that gathers public information to provide useful insights.",
         "demo" : "https://domain-analyser.vercel.app",
         "github" : "https://github.com/iapheus/domain-analyser",
-        "tech" : ["React", "Material UI"]
+        "tech" : ["React", "Material UI"],
+        "status": "finished",
+        "favorite":"no"
     },
 
     {
@@ -34,7 +40,9 @@
         "description" : "A reading app that boosts your reading speed and improves retention.",
         "demo" : "https://fast-reader-eight.vercel.app/",
         "github" : "https://github.com/iapheus/fast-reader",
-        "tech" : ["React", "File System", "Tailwind CSS"]
+        "tech" : ["React", "File System", "Tailwind CSS"],
+        "status": "finished",
+        "favorite":"no"
     },
 	{
         "id":5,
@@ -43,7 +51,9 @@
         "description" : "An RSS reader app that lets you add URLs to easily follow your favorite feeds.",
         "demo" : "",
         "github" : "https://github.com/iapheus/rss-cool",
-        "tech" : ["React Native", "RSS"]
+        "tech" : ["React Native", "RSS"],
+        "status": "finished",
+        "favorite":"no"
     },
 	{
         "id":6,
@@ -52,7 +62,9 @@
         "description" : "Freify is a free music player that makes it easy to listen to your favorite tracks.",
         "demo" : "https://freify.vercel.app/",
         "github" : "https://github.com/iapheus/freify",
-        "tech" : ["React", "Redux Toolkit", "Radix UI"]
+        "tech" : ["React", "Redux Toolkit", "Radix UI"],
+        "status": "finished",
+        "favorite":"no"
     },
     {
         "id":7,
@@ -61,7 +73,9 @@
         "description" : "A site that lets you download and save your favorite TikTok videos for offline access.",
         "demo" : "https://tt-downloader-lac.vercel.app/",
         "github" : "https://github.com/iapheus/tt-downloader",
-        "tech" : ["React", "Material UI"]
+        "tech" : ["React", "Material UI"],
+        "status": "finished",
+        "favorite":"no"
     },
     {
         "id":8,
@@ -70,6 +84,8 @@
         "description" : "A site that lets you swipe through photos from your favorite subreddits easily.",
         "demo" : "https://just-swipe.vercel.app/",
         "github" : "https://github.com/iapheus/JustSwipe",
-        "tech" : ["React", "Redux Toolkit", "Material UI"]
+        "tech" : ["React", "Redux Toolkit", "Material UI"],
+        "status": "finished",
+        "favorite":"no"
     }
 ]
