@@ -87,5 +87,38 @@
         "tech" : ["React", "Redux Toolkit", "Material UI"],
         "status": "finished",
         "favorite":"no"
+    },
+    {
+        "id":9,
+        "img" : "/projectsBg.png",
+        "title" : "BreakThisBottle - API",
+        "description" : "An API for an app I plan to build in the future that randomly sends letters to users—like tossing message bottles into the ocean",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/breakthisbottle-api",
+        "tech" : ["ExpressJS", "TypeScript", "JWT", "MongoDB"],
+        "status": "ongoing",
+        "favorite":"yes"
+    },
+    {
+        "id":10,
+        "img" : "/projectsBg.png",
+        "title" : "Trading - Simplified API",
+        "description" : "A lightweight API for getting exchange rates, stock prices, and the latest news.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/tradingApi",
+        "tech" : ["ExpressJS", "TypeScript", "RSS"],
+        "status": "ongoing",
+        "favorite":"no"
+    },
+    {
+        "id":11,
+        "img" : "/projectsBg.png",
+        "title" : "Stockia",
+        "description" : "A cross-platform Mobile app that uses a trading API to display exchange rates, stock prices, and financial news.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/stockia",
+        "tech" : ["React Native", "TypeScript"],
+        "status": "ongoing",
+        "favorite":"yes"
     }
 ]
