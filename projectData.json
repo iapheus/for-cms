@@ -8,7 +8,7 @@
         "github" : "https://github.com/iapheus/PrettyBookmark",
         "tech" : ["React", "Firebase Auth / DB", "Tailwind CSS"],
         "status":"finished",
-        "favorite":"no"
+        "favorite":"yes"
     },
 	{
         "id":2,
