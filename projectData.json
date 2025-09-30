@@ -107,7 +107,7 @@
         "demo" : "",
         "github" : "https://github.com/iapheus/tradingApi",
         "tech" : ["ExpressJS", "TypeScript", "RSS"],
-        "status": "ongoing",
+        "status": "finished",
         "favorite":"no"
     },
     {
@@ -118,7 +118,8 @@
         "demo" : "",
         "github" : "https://github.com/iapheus/stockia",
         "tech" : ["React Native", "TypeScript"],
-        "status": "ongoing",
+        "status": "finished",
         "favorite":"yes"
     }
 ]
+
