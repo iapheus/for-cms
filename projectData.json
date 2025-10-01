@@ -123,7 +123,7 @@
     },
 	{
         "id":12,
-        "img" : "/projectsBg.png",
+        "img" : "https://raw.githubusercontent.com/iapheus/docly-legacy/refs/heads/main/media/htmlOutput.png",
         "title" : "Docly",
         "description" : "Docly automatically generates simplified documentation for ExpressJS APIs using JavaScript AST.",
         "demo" : "",
@@ -134,7 +134,7 @@
     },
 	{
         "id":13,
-        "img" : "https://raw.githubusercontent.com/iapheus/docly-legacy/refs/heads/main/media/htmlOutput.png",
+        "img" : "/projectsBg.png",
         "title" : "NavMate - Telegram",
         "description" : "NavMate is a Telegram bot built with OpenStreetMap.",
         "demo" : "",
@@ -144,5 +144,6 @@
         "favorite":"no"
     }
 ]
+
 
 
