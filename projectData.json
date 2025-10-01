@@ -97,7 +97,7 @@
         "github" : "https://github.com/iapheus/breakthisbottle-api",
         "tech" : ["ExpressJS", "TypeScript", "JWT", "MongoDB"],
         "status": "ongoing",
-        "favorite":"yes"
+        "favorite":"no"
     },
     {
         "id":10,
@@ -120,6 +120,29 @@
         "tech" : ["React Native", "TypeScript"],
         "status": "finished",
         "favorite":"yes"
+    },
+	{
+        "id":12,
+        "img" : "/projectsBg.png",
+        "title" : "Docly",
+        "description" : "Docly automatically generates simplified documentation for ExpressJS APIs using JavaScript AST.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/docly-legacy",
+        "tech" : ["TypeScript", "AST"],
+        "status": "finished",
+        "favorite":"yes"
+    },
+	{
+        "id":13,
+        "img" : "https://raw.githubusercontent.com/iapheus/docly-legacy/refs/heads/main/media/htmlOutput.png",
+        "title" : "NavMate - Telegram",
+        "description" : "NavMate is a Telegram bot built with OpenStreetMap.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/navMate-telegram",
+        "tech" : ["TypeScript", "Telegram API"],
+        "status": "finished",
+        "favorite":"no"
     }
 ]
+
 
