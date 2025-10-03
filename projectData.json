@@ -147,7 +147,7 @@
         "id":14,
         "img" : "/projectsBg.png",
         "title" : "Neighborly - API",
-        "description" : "API for the Neighborly apartment app.",
+        "description" : "API for the Neighborly apartment management app.",
         "demo" : "",
         "github" : "https://github.com/iapheus/neighborly-api",
         "tech" : ["TypeScript", "ExpressJS", "PostgreSQL"],
@@ -177,3 +177,4 @@
         "favorite":"yes"
     }
 ]
+
