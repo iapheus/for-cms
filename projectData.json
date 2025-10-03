@@ -19,7 +19,7 @@
         "github" : "https://github.com/iapheus/OSS-Explorer",
         "tech" : ["React", "Redux Toolkit", "OpenStreetMap", "Radix UI"],
         "status": "finished",
-        "favorite":"yes"
+        "favorite":"no"
     },
     {
         "id":3,
@@ -113,12 +113,12 @@
     {
         "id":11,
         "img" : "/projectsBg.png",
-        "title" : "Stockia",
-        "description" : "A cross-platform Mobile app that uses a trading API to display exchange rates, stock prices, and financial news.",
+        "title" : "PassTheNext",
+        "description" : "A fully loaded middleware for your APIs",
         "demo" : "",
-        "github" : "https://github.com/iapheus/stockia",
-        "tech" : ["React Native", "TypeScript"],
-        "status": "finished",
+        "github" : "https://github.com/iapheus/pass-the-next",
+        "tech" : ["TypeScript", "ExpressJS"],
+        "status": "ongoing",
         "favorite":"yes"
     },
 	{
@@ -154,19 +154,8 @@
         "status": "ongoing",
         "favorite":"no"
     },
-	{
+    {
         "id":15,
-        "img" : "/projectsBg.png",
-        "title" : "PassTheNext",
-        "description" : "A fully loaded middleware for your APIs",
-        "demo" : "",
-        "github" : "https://github.com/iapheus/pass-the-next",
-        "tech" : ["TypeScript", "ExpressJS"],
-        "status": "ongoing",
-        "favorite":"yes"
-    },
-	{
-        "id":16,
         "img" : "/projectsBg.png",
         "title" : "Coffeeaholiq",
         "description" : "A Full-Stack E-Commerce Website for Coffee Lovers.",
@@ -175,9 +164,16 @@
         "tech" : ["TypeScript", "ExpressJS", "PostgreSQL"],
         "status": "finished",
         "favorite":"yes"
+    },
+    {
+        "id":16,
+        "img" : "/projectsBg.png",
+        "title" : "Stockia",
+        "description" : "A cross-platform Mobile app that uses a trading API to display exchange rates, stock prices, and financial news.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/stockia",
+        "tech" : ["React Native", "TypeScript"],
+        "status": "finished",
+        "favorite":"yes"
     }
 ]
-
-
-
-
