@@ -142,8 +142,42 @@
         "tech" : ["TypeScript", "Telegram API"],
         "status": "finished",
         "favorite":"no"
+    },
+	{
+        "id":14,
+        "img" : "/projectsBg.png",
+        "title" : "Neighborly - API",
+        "description" : "API for the Neighborly apartment app.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/neighborly-api",
+        "tech" : ["TypeScript", "ExpressJS", "PostgreSQL"],
+        "status": "ongoing",
+        "favorite":"no"
+    },
+	{
+        "id":15,
+        "img" : "/projectsBg.png",
+        "title" : "PassTheNext",
+        "description" : "A fully loaded middleware for your APIs",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/pass-the-next",
+        "tech" : ["TypeScript", "ExpressJS"],
+        "status": "ongoing",
+        "favorite":"yes"
+    },
+	{
+        "id":16,
+        "img" : "/projectsBg.png",
+        "title" : "Coffeeaholiq",
+        "description" : "A Full-Stack E-Commerce Website for Coffee Lovers.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/coffeeaholiq",
+        "tech" : ["TypeScript", "ExpressJS", "PostgreSQL"],
+        "status": "finished",
+        "favorite":"yes"
     }
 ]
+
 
 
 
