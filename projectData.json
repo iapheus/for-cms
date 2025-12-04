@@ -114,7 +114,7 @@
         "id":11,
         "img" : "/projectsBg.png",
         "title" : "PassTheNext",
-        "description" : "A fully loaded middleware for your APIs",
+        "description" : "PassTheNext is a security solution that works as middleware or as a WAF with a proxy gateway. ",
         "demo" : "",
         "github" : "https://github.com/iapheus/pass-the-next",
         "tech" : ["TypeScript", "ExpressJS"],
@@ -174,7 +174,19 @@
         "github" : "https://github.com/iapheus/stockia",
         "tech" : ["React Native", "TypeScript"],
         "status": "finished",
+        "favorite":"no"
+    },
+	{
+        "id":17,
+        "img" : "https://raw.githubusercontent.com/iapheus/wryde/refs/heads/main/images/homepage.png",
+        "title" : "W-Ryde",
+        "description" : "With W-Ryde, you can read vehicle experiences from the owner and also contribute your own.",
+        "demo" : "",
+        "github" : "https://github.com/iapheus/wryde",
+        "tech" : ["NextJS", "ASP.Net Core Web API"],
+        "status": "finished",
         "favorite":"yes"
     }
 ]
+
 
