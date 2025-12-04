@@ -163,7 +163,7 @@
         "github" : "https://github.com/iapheus/coffeeaholiq",
         "tech" : ["TypeScript", "ExpressJS", "PostgreSQL"],
         "status": "finished",
-        "favorite":"yes"
+        "favorite":"no"
     },
     {
         "id":16,
@@ -188,5 +188,6 @@
         "favorite":"yes"
     }
 ]
+
 
 
